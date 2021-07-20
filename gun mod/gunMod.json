@@ -1,0 +1,65 @@
+[{
+        "name": "Call of Duty Weapon Addon",
+        "descripstion": "It's no secret that only DesnoGuns for Minecraft PE allowed fully crafting weapons using components and parts. Here you have only a few ways to get these weapons. The simplest of these is the /function codguns command giving the player the whole arsenal at once, including grenades and cartridges.\nA similar reload system was already in the last addon and here it is available again. You will need to open inventory and put your weapons and ammo in slots. After that, the weapon is reloaded and you can continue shooting. Remember that shooting is only possible when you sneakin ",
+        "fileNameInAsset": "",
+        "fileExtendtion": "cod-mod.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "XM Guns Add-on 6.0",
+        "descripstion": "GUNS\nReal shotgun(more bursts per shot， scattered trajectory)\nReal m16a4(three bursts per shot)\nReal rpg\nBubble gun!(very beautiful)\nFlame gun(fire!)\nLaser gun\nElectromagnetic gun(this world will be destroyed)\nFiying diamond sword\nEtc.....\nAll guns can be shot like a snowball and egg through the touch screen.\nAll guns have cooldown time ",
+        "fileNameInAsset": "",
+        "fileExtendtion": "xm-guns-6.0.mcaddon",
+        "img": ""
+    },
+
+    {
+        "name": "Actual Guns",
+        "descripstion": "Actual Guns is the first Add - on to introduce custom guns and features such as Skins,Different accuracy when(jumping, walking, in air, swimming, ladder, etc),Silencers,Hit - markers,Announcers,BurstsSemis,B Modes,Enhancements,Wiki,Editions,and more!it was previously made by TheEnderface and Keyyard,I have took the Add - on expanded it;re - wrote everything so it 's brand new. It contains about 90 weapons items (this includes grenades, melees, guns, etc). All the weapons in this Add-on are unique in terms of their stats and texture - we don't like copy pasta here!",
+        "fileNameInAsset": "",
+        "fileExtendtion": "actualguns-addon.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Add-on: World War II",
+        "descripstion": "The World War II Add-on adds weapons, vehicles, and soldiers to Minecraft PE.\nIf you have long wanted to have a real full - scale battle in the world Minecraft Pocket Edition,\nwith a large number of soldiers and large - scale fights,\nthe mod World War II is a great solution!\nNow imagine that on the battlefield there are not only American and German soldiers,\nbut also tanks that fire on enemy fortifications and fighter and bomber planes that fly in the sky!",
+        "fileNameInAsset": "",
+        "fileExtendtion": "Mir-MCPE.com_ww2.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Modern Army Weapons",
+        "descripstion": "Strictly speaking, 21 in the yard. What arrows and bow? What is chain mail? In war, use drones to not use human resources so Minecraft PE also needs to keep pace with weapon upgrades.\nIsn't it true that all the current guns available to players of Minecraft PE, even some not look modern? But this addon will provide you get a 44 caliber Magnum.",
+        "fileNameInAsset": "",
+        "fileExtendtion": "2471_Modern_Army_Wea.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Combat Gears Addon",
+        "descripstion": "This addon changes some Minecraft equipments into special Combat Gears. Two powerful guns, Normal Armors, Power Armor, and new sword textures. It's perfect for killing powerful bosses or deadly mobs",
+        "fileNameInAsset": "",
+        "fileExtendtion": "combatgearaddon.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Elemental Weapons",
+        "descripstion": "How does the game feel when you need more power? Or do you need more weapons to complete your arsenal? This add-on adds 12 new weapons into the game and they have their own individual peculiar abilities. Each ranging from utility to straight destruction, they have their own drawbacks to prevent them from being too powerful. Treasures such as 'Spell tiles' can be found in chests from the nether, mineshafts, treasures, and more.",
+        "fileNameInAsset": "",
+        "fileExtendtion": "Mir-MCPE.com_elemental-weapons.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Laser Gun Addon",
+        "descripstion": "This add-on replaces some of the currently existing items with futuristic inspired features. For example, the Bow has been replaced by a Laser Gun which is both more badass and more powerful than an ordinary bow. Some of the mobs have also been replaced by mechanical robots with slightly better powers than the mobs which they replaced",
+        "fileNameInAsset": "",
+        "fileExtendtion": "Mir-MCPE.com_laser-guns.mcaddon",
+        "img": ""
+    },
+    {
+        "name": "Portal 2 Mod",
+        "descripstion": "Portal 2 Mod (previously Portal Gun) adds many of the features as found in the popular first-person puzzle-platform Portal games. The gameplay elements include features like the PortalGuns to place portals, a GravityGun which can be used for both blocks and mobs and lots of other nifty tools",
+        "fileNameInAsset": "",
+        "fileExtendtion": "Portal+Gun+v6.5.mcaddon",
+        "img": ""
+    }
+]
